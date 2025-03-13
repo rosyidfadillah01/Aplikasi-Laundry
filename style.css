@@ -1,0 +1,38 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(130deg, #9d3b8b, #4db4e8);
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(130deg, #9d3b8b, #4db4e8);
+}
+
+#bg-card{
+    box-shadow: 5px 5px 10px black;
+}
+
+#gambarLogin{
+    width: 10vw;
+}
+
+#gambarDaftar{
+    width: 5vw;
+}
+
+#daftar-akun{
+    color: #909294;
+}
+
+#daftar-akun:hover{
+    color: white;
+}
+
+#lupa-password{
+    color: #909294;
+}
+
+#lupa-password:hover{
+    color: white;
+}
